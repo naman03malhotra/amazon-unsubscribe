@@ -1,0 +1,27 @@
+{
+  "name": "amazon-unsubscribe",
+  "version": "2.0.0",
+  "description": "Cancel all your Amazon Subscribe & Save subscriptions in one click. No more clicking through 50 cancellation pages.",
+  "author": "naman03malhotra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naman03malhotra/amazon-unsubscribe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naman03malhotra/amazon-unsubscribe/issues"
+  },
+  "homepage": "https://github.com/naman03malhotra/amazon-unsubscribe#readme",
+  "keywords": [
+    "amazon",
+    "subscribe-and-save",
+    "unsubscribe",
+    "bulk-cancel",
+    "chrome-extension",
+    "manifest-v3",
+    "automation",
+    "amazon-india",
+    "subscription-manager",
+    "browser-extension"
+  ]
+}
